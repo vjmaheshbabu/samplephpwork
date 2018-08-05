@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Hello World - Try new deploye</h1>
+<h1>Hello World - Devops with Manual deployment</h1>
 
 <?php
 echo "version :Rev Ver";
